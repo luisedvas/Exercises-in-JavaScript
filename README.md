@@ -1,4 +1,4 @@
-# JAvaScript
+# JavaScript
 Team Nieva
 // VARIABLES - DEFINICIÓN
 
